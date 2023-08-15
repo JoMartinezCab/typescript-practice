@@ -9,4 +9,5 @@ import './style.css';
 // import './src/topics/05-import-export.ts';
 // import './src/topics/06-clases.ts';
 // import './src/topics/07-generics.ts';
-import './src/topics/08-decoradores.ts';
+// import './src/topics/08-decoradores.ts';
+import './src/topics/09-optional-chaining.ts';
